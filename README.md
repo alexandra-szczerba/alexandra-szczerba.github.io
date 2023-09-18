@@ -1,2 +1,2 @@
-# alexandra-szczerba.github.io
+# alexandra
 website trial
